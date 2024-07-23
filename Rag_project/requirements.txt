@@ -1,0 +1,9 @@
+pypdf
+langchain
+langchain_community
+rank_bm25
+langchain_core
+faiss-cpu
+gradio
+gpt4all
+langchain_experimental
