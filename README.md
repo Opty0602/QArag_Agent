@@ -9,6 +9,9 @@ This could probably because of the low specs of my pc I devoloped the code in an
 LLM Model used: GPT4ALL - mistral-7b-openorca.Q4_0.gguf (4.11GB)                      
 Embedding Model Used: GPT4AllEmbeddings - all-MiniLM-L6-v2.gguf2.f16.gguf (<100MBs)
 
+One could also find two docstore_index folder, semanticdocstore_index is vectorstore of chunks created by Semantic Chunking using aforementioned Embedding Model, whereas other vectorstore folder contains vectorestore embeddings by performing RecursiveTextSplitting.
+
+
 Though I didnt have much experience with RAGs but even by doing this home assigment challenged my capabilities. I had fun doing it and do realise the places I lack behind.
 
-Thanks Steps AI for showing interest and giving me a chance.
+And Thanks you Steps AI for showing interest and giving me a chance.
