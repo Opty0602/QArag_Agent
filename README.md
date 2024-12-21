@@ -11,7 +11,3 @@ Embedding Model Used: GPT4AllEmbeddings - all-MiniLM-L6-v2.gguf2.f16.gguf (<100M
 
 One could also find two docstore_index folder, semanticdocstore_index is vectorstore of chunks created by Semantic Chunking using aforementioned Embedding Model, whereas other vectorstore folder contains vectorestore embeddings by performing RecursiveTextSplitting.
 
-
-Though I didnt have much experience with RAGs but even by doing this home assigment challenged my capabilities. I had fun doing it and do realise the places I lack behind.
-
-And Thanks you Steps AI for showing interest and giving me a chance.
